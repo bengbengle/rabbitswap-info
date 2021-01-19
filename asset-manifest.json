@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/rabbitswap-info/static/js/main.5b3b88cd.chunk.js",
+    "main.js.map": "/rabbitswap-info/static/js/main.5b3b88cd.chunk.js.map",
+    "runtime-main.js": "/rabbitswap-info/static/js/runtime-main.252269f3.js",
+    "runtime-main.js.map": "/rabbitswap-info/static/js/runtime-main.252269f3.js.map",
+    "static/js/2.123d11f5.chunk.js": "/rabbitswap-info/static/js/2.123d11f5.chunk.js",
+    "static/js/2.123d11f5.chunk.js.map": "/rabbitswap-info/static/js/2.123d11f5.chunk.js.map",
+    "index.html": "/rabbitswap-info/index.html",
+    "precache-manifest.c0dfaca546d7fa701c44e9b7a5eb415c.js": "/rabbitswap-info/precache-manifest.c0dfaca546d7fa701c44e9b7a5eb415c.js",
+    "service-worker.js": "/rabbitswap-info/service-worker.js",
+    "static/js/2.123d11f5.chunk.js.LICENSE.txt": "/rabbitswap-info/static/js/2.123d11f5.chunk.js.LICENSE.txt",
+    "static/media/eth.png": "/rabbitswap-info/static/media/eth.73dabb37.png",
+    "static/media/logo-white.png": "/rabbitswap-info/static/media/logo-white.51d2d0b1.png",
+    "static/media/logo.png": "/rabbitswap-info/static/media/logo.16fc4e48.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.252269f3.js",
+    "static/js/2.123d11f5.chunk.js",
+    "static/js/main.5b3b88cd.chunk.js"
+  ]
+}
